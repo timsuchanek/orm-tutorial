@@ -307,6 +307,10 @@ If you query your endpoint at `http://localhost:4000` again - we have data! Yey!
 
 Congratulations! 🚀🎉🤘 You just implemented a GraphQL Server with the latest tools!!
 
+## 10 for the lazy people
+
+The result of this tutorial can also be found [here](https://github.com/prisma/orm-examples/tree/master/orm-tutorial)
+
 ## Next Steps
 
 Now as you're already familiar with the architecture you could for example implement a mutation that can create Cats.
